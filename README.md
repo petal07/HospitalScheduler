@@ -6,11 +6,11 @@ CPSC 312 project - Interval Scheduling Problem in Haskell
 - csv file in the same folder as source code
 
 ## Format of the csv file
-Note: the starting and ending times must be from Zero to Twenty_Three (24 hour clock)
+Note: the starting and ending times must be from Zero to Twenty_Three (24 hour clock): 
 
-Patient Name, Starting Time, Ending Time \n
+***Patient Name, Starting Time, Ending Time***
 
-Example:
+***Example***:
 
 Al,One,Three
 
@@ -29,12 +29,16 @@ Ellie,Twenty,Twenty_Two
 - run `run`
 
 ## Example output:
-NOTE: To see all of today's patients, you would need 2 doctors.
+`NOTE: To see all of today's patients, you would need 2 doctors.`
 
 1st Doctor's Patient Schedule:
+
 NAME, START TIME, END TIME
+
 "Beth", One, Two
+
 "Cia", Two, Four
+
 "Ellie", Twenty, Twenty_Two
 
 2nd Doctor's Patient Schedule:
