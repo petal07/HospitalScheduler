@@ -31,7 +31,7 @@ Harold Goldberg, Twenty, Twenty_Two
 - Follow the prompts that appear
 - Output will appear on the command line and will also be printed to a txt output file
 
-## Example Output:
+## Example Output
 ```
 ***************************************************************
 NOTE: To see all of today's patients, you would need 4 doctors.
