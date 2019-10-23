@@ -20,7 +20,7 @@ Donald Duck, Three, Eight
 Emerald Wong, Four, Seven
 Fiona Jefferson, Five, Nine
 Gabby Snow, Six, Ten
-Harold Goldberg, Eight, Eleven
+Harold Goldberg, Twenty, Twenty_Two
 ```
 
 ## Running The Program
@@ -29,7 +29,7 @@ Harold Goldberg, Eight, Eleven
 - run `:load HospitalScheduler`
 - run `run`
 - Follow the prompts that appear
-- Output will appear on the command line, as well as being printed to a txt output file
+- Output will appear on the command line and will also be printed to a txt output file
 
 ## Example Output:
 ```
@@ -44,7 +44,7 @@ NOTE: To see all of today's patients, you would need 4 doctors.
 NAME, START TIME, END TIME
 "Betty White", One, Four
 "Emerald Wong", Four, Seven
-"Harold Goldberg", Eight, Eleven
+"Harold Goldberg", Twenty, Twenty_Two
 
 
 
@@ -54,4 +54,8 @@ NAME, START TIME, END TIME
 NAME, START TIME, END TIME
 "Cara Hayle", Three, Five
 "Fiona Jefferson", Five, Nine
+
+
+
+"Process complete."
 ```
