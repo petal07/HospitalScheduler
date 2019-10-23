@@ -1,11 +1,11 @@
 # Hospital Scheduler
 CPSC 312 project - Interval Scheduling Problem in Haskell
 
-## What you need
+## What You Need
 - Haskell's GHC (see https://www.haskell.org/downloads/)
 - csv file in the same folder as source code
 
-## Example input:
+## Example Input
 
 ***Note: format of the csv file***
 - The starting and ending times must be from Zero to Twenty_Three (24 hour clock).
@@ -20,13 +20,13 @@ Dani,Three,Six
 Ellie,Twenty,Twenty_Two
 ```
 
-## Running the program
+## Running The Program
 - In terminal, change directories to be wherever the project and input csv file are saved
 - run `ghci`
 - run `:load HospitalScheduler`
 - run `run`
 
-## Example output:
+## Example Output:
 ```
 ***************************************************************
 NOTE: To see all of today's patients, you would need 4 doctors.
