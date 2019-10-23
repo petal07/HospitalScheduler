@@ -1,4 +1,4 @@
-# HospitalScheduler
+# Hospital Scheduler
 CPSC 312 project - Interval Scheduling Problem in Haskell
 
 ## What you need
