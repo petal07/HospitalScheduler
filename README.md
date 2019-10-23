@@ -7,12 +7,19 @@ CPSC 312 project - Interval Scheduling Problem in Haskell
 
 ## Format of the csv file
 Note: the starting and ending times must be from Zero to Twenty_Three (24 hour clock)
+
 Patient Name, Starting Time, Ending Time \n
-Example: \n
-Al,One,Three \n
-Beth,One,Two \n
-Cia,Two,Four \n
-Dani,Three,Six \n
+
+Example:
+
+Al,One,Three
+
+Beth,One,Two
+
+Cia,Two,Four
+
+Dani,Three,Six
+
 Ellie,Twenty,Twenty_Two
 
 ## Running the program
