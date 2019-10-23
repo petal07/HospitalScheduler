@@ -26,7 +26,7 @@ Ellie,Twenty,Twenty_Two
 - run `:load HospitalScheduler`
 - run `run`
 - Follow the prompts that appear
-- Output will appear on the command line, as well as being printed to a txt output file.
+- Output will appear on the command line, as well as being printed to a txt output file
 
 ## Example Output:
 ```
