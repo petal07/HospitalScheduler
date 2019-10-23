@@ -30,22 +30,25 @@ Ellie,Twenty,Twenty_Two
 
 ## Example output:
 ```
-NOTE: To see all of today's patients, you would need 2 doctors.`
+***************************************************************
+NOTE: To see all of today's patients, you would need 4 doctors.
+***************************************************************
 
+
+------------------------------
 1st Doctor's Patient Schedule:
-
+------------------------------
 NAME, START TIME, END TIME
+"Betty White", One, Four
+"Emerald Wong", Four, Seven
+"Harold Goldberg", Eight, Eleven
 
-"Beth", One, Two
 
-"Cia", Two, Four
 
-"Ellie", Twenty, Twenty_Two
-
+------------------------------
 2nd Doctor's Patient Schedule:
+------------------------------
 NAME, START TIME, END TIME
-"Al", One, Three
-"Dani", Three, Six
-
-"Process complete."
+"Cara Hayle", Three, Five
+"Fiona Jefferson", Five, Nine
 ```
