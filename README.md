@@ -3,7 +3,7 @@ CPSC 312 project - Interval Scheduling Problem in Haskell
 
 ## What You Need
 - Haskell's GHC (see https://www.haskell.org/downloads/)
-- csv file in the same folder as source code
+- csv input file in the same folder as source code
 
 ## Example Input
 
@@ -26,7 +26,7 @@ Ellie,Twenty,Twenty_Two
 - run `:load HospitalScheduler`
 - run `run`
 - Follow the prompts that appear
-- Output will appear on the command line, as well as being printed to a txt output file
+- Output will appear on the command line and will also be printed to a txt output file
 
 ## Example Output:
 ```
