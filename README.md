@@ -5,22 +5,20 @@ CPSC 312 project - Interval Scheduling Problem in Haskell
 - Haskell's GHC (see https://www.haskell.org/downloads/)
 - csv file in the same folder as source code
 
-## Format of the csv file
-Note: the starting and ending times must be from Zero to Twenty_Three (24 hour clock): 
+## Example input:
 
-***Patient Name, Starting Time, Ending Time***
+***Note: format of the csv file***
+- The starting and ending times must be from Zero to Twenty_Three (24 hour clock).
+- The syntax is as follows: Patient Name, Starting Time, Ending Time
 
-***Example***:
-
+***Sample input .csv file***
+```
 Al,One,Three
-
 Beth,One,Two
-
 Cia,Two,Four
-
 Dani,Three,Six
-
 Ellie,Twenty,Twenty_Two
+```
 
 ## Running the program
 - In terminal, change directories to be wherever the project and input csv file are saved
