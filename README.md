@@ -29,7 +29,8 @@ Ellie,Twenty,Twenty_Two
 - run `run`
 
 ## Example output:
-`NOTE: To see all of today's patients, you would need 2 doctors.`
+```
+NOTE: To see all of today's patients, you would need 2 doctors.`
 
 1st Doctor's Patient Schedule:
 
@@ -47,3 +48,4 @@ NAME, START TIME, END TIME
 "Dani", Three, Six
 
 "Process complete."
+```
